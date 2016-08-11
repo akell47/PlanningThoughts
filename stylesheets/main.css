@@ -3,15 +3,16 @@ h1 {
   text-align: center;
   background: white
 }
+h3 {
+  color: pink;
+  text-align: center;
+  background-color: grey
+}
 
 h5 {
   color: grey
 }
-h3 {
-  color: pink
-  text-align: center;
-  background-color: grey
-}
+
 p {
   font-family: cursive;
 }
