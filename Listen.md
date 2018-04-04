@@ -1,4 +1,4 @@
-#Listen
+# Listen
 _March 8, 2016_ <br>
 Reflecting today on International Women’s day I am thinking about a focus group I participated in for women that have had experience with government services.  The focus group was hosted by a non-profit women’s advocacy group called 9-5 Working Women. This focus group was incredibly enlightening, powerful, and overall a great experience to be a part of.  This reflection I did quickly (quickly by my writing standard). It is perhaps a bit rambly, none the less, writing this was a really great exercise. In my career I do not write too much but I should. I need to start a blog like asap.
 ## Background
